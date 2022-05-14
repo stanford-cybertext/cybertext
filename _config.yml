@@ -55,24 +55,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   :
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Predicting the future of text technologies by analyzing their past."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
 footer:
   links:
     - label: "Twitter"
@@ -80,17 +62,6 @@ footer:
       url: "https://twitter.com/etreharne"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
