@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Stanford CyberText
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  The CyberText Technologies Project catalogues the history of dominant text-based human communication devices in an effort to identify common traits. We use those traits to discover the patterns that can predict the future of modern-day technologies.
+
+Which text technolgoes are going to succeed and how can they best be developed? The answer lies in the patterns of the past.
+twitter_username: https://twitter.com/etreharne
+github_username: stanford-cybertext
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   :
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Predicting the future of text technologies by analyzing their past."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
