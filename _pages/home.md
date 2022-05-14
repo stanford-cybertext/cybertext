@@ -1,5 +1,5 @@
 ---
-permalink:
+permalink: https://stanford-cybertext.github.io/
 title: "Home"
 ---
 
