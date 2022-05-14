@@ -1,6 +1,7 @@
 ---
 permalink: //
 title: "Home"
+layout: single
 ---
 
 ![Home banner](assets/images/Home_Banner.jpeg)
