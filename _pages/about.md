@@ -3,8 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-<img align="right" src="assets/images/About.jpeg">
-
 <p align="right">
   <img src="assets/images/About.jpeg" />
 </p>
