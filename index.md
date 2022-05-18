@@ -13,3 +13,5 @@ The CyberText Technologies Project catalogues the history of dominant text-based
 Which text technolgoes are going to succeed and how can they best be developed? The answer lies in the patterns of the past.
 
 [More about us](https://stanford-cybertext.github.io/research/)
+
+![In The Spotlight](assets/images/In_The_Spotlight.jpeg)
