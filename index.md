@@ -1,7 +1,7 @@
 ---
 permalink: //
 title: "Home"
-layout: splash
+layout: simple
 ---
 
 Predicting the future of text technologies by analyzing their past. [Learn more](https://stanford-cybertext.github.io/research/)
