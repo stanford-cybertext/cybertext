@@ -18,7 +18,7 @@ feature_row:
     btn_label: "More information"
     btn_class: "btn--inverse"
   - image_path: /assets/images/Our_Team.png
-    alt: "placeholder image 2"
+    alt: "Our Team image"
     title: "Our Team"
     excerpt: "We are an interdisciplinary and multinational team, working together to understand the patterns behind the history of text technologies."
     url: "https://stanford-cybertext.github.io/team"
