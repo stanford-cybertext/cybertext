@@ -1,6 +1,6 @@
 ---
 permalink: //
-title: "Home"
+title: "Stanford CyberText"
 layout: single
 feature_row:
   - image_path: /assets/images/Background.jpg
