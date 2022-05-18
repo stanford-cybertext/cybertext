@@ -4,9 +4,12 @@ title: "Home"
 layout: single
 feature_row:
   - image_path: /assets/images/In_The_Spotlight.jpeg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "In the Spotlight"
+    alt: "In the Spotlight image"
+    excerpt: "Having created a meticulous dataset of major text technologies through history, our project is now in its second phase. Learn more about how  we move from this dataset to employing big data in order to test and verify the patterns we have found."
+    url: "https://stanford-cybertext.github.io/research/"
+    btn_label: "More information"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/Our_Team.png
     alt: "placeholder image 2"
     title: "Placeholder 2"
