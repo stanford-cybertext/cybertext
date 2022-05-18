@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Research"
     url: /research/
   - title: "Team"
@@ -7,5 +9,3 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
-  - title: "Home"
-    url: /
