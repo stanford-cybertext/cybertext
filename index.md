@@ -19,9 +19,9 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/Our_Team.png
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "Our Team"
+    excerpt: "We are an interdisciplinary and multinational team, working together to understand the patterns behind the history of text technologies."
+    url: "https://stanford-cybertext.github.io/team"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
