@@ -30,6 +30,4 @@ Predicting the future of text technologies by analyzing their past. [Learn more]
 
 ![Home banner](assets/images/Home_Banner.jpeg)
 
-[More about us]()
-
 {% include feature_row %}
