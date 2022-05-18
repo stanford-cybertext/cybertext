@@ -3,8 +3,6 @@ permalink: /contact/
 title: "Contact"
 ---
 
-### Contact
-
 Professor Elaine Treharne
 
 450 Serra Mall
