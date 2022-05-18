@@ -4,7 +4,7 @@ title: "Home"
 layout: single
 ---
 
-#### Predicting the future of text technologies by analyzing their past. [Learn more](/research/)
+#### Predicting the future of text technologies by analyzing their past. [Learn more](https://stanford-cybertext.github.io/about/)
 
 ![Home banner](assets/images/Home_Banner.jpeg)
 
