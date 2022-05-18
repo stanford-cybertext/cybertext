@@ -4,10 +4,12 @@ title: "Home"
 layout: single
 ---
 
-Predicting the future of text technologies by analyzing their past. [Learn more](https://stanford-cybertext.github.io/about/)
+Predicting the future of text technologies by analyzing their past. [Learn more](https://stanford-cybertext.github.io/research/)
 
 ![Home banner](assets/images/Home_Banner.jpeg)
 
-<p style="text-align: left;"> The CyberText Technologies Project catalogues the history of dominant text-based human communication devices in an effort to identify common traits. We use those traits to discover the patterns that can predict the future of modern-day technologies.
+The CyberText Technologies Project catalogues the history of dominant text-based human communication devices in an effort to identify common traits. We use those traits to discover the patterns that can predict the future of modern-day technologies.
 
-Which text technolgoes are going to succeed and how can they best be developed? The answer lies in the patterns of the past. </p>
+Which text technolgoes are going to succeed and how can they best be developed? The answer lies in the patterns of the past.
+
+[More about us](https://stanford-cybertext.github.io/research/)
