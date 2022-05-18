@@ -1,7 +1,7 @@
 ---
 permalink: //
 title: "Home"
-layout: simple
+layout: single
 feature_row:
   - image_path: /assets/images/In_The_Spotlight.jpeg
     alt: "placeholder image 1"
