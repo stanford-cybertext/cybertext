@@ -20,6 +20,7 @@ feature_row:
     url: "https://stanford-cybertext.github.io/team"
     btn_label: "Learn more about our team"
     btn_class: "btn--inverse"
+class="full"
 ---
 
 {% include feature_row %}
