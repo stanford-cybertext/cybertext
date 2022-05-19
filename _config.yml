@@ -57,7 +57,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  bio              : "Predicting the future of text technologies by analyzing their past."
+  bio              : "Predicting the future of text technologies by analyzing their past.
+
+  Contact
+  
+  Professor Elaine Treharne
+
+450 Serra Mall
+
+Bldg 460 Stanford
+
+CA 94305-2087"
   email            : "texttechnologies@lists.stanford.edu"
   links:
     - label: "Email"
