@@ -4,11 +4,7 @@ title: "Predicting the Future of Text Technologies"
 layout: splash
 ---
 
-.width-half {
-    width: 50%
-}
-
-![Research_1](/assets/images/research_1.png){: .align-right .width-half}
+![Research_1](/assets/images/research_1.png){: .align-right}
 
 How can we analyze five millennia of text technologies from pre-tablet technologies to digital devices? In our project we decided to tackle these huge questions with big data and ventured to gather data on the whole history of human text-based communication. Using Text Technological techniques and theories, we assembled a dataset that measures key criteria common to all communication technologies. Combining domain knowledge with methods expertise, we have assembled a multidisciplinary team to tackle the opportunities created by our datasets. One of the first things we noticed is that no comprehensive or standardized metadata system exists to describe text technologies comparatively, so we designed and created one. In our schema we have included not only basic features like dimensions, date of creation, and size, but we have also calculated capacity, portability, content permanence and geographical spread to provide access to one of the best curated datasets in scholarship to date. We have analyzed, measured and catalogued textual objects using these criteria and are now moving to the validation phase with large open access datasets from heritage repositories around the world.
 
