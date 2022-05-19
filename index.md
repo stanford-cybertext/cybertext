@@ -4,9 +4,7 @@ title: "Stanford CyberText"
 layout: splash
 classes: wide
 feature_row:
-  - image_path: /assets/images/Background.jpg
-    alt: "Background"
-    title: "About"
+  - title: "About"
     excerpt: "The CyberText Technologies Project catalogues the history of dominant text-based human communication devices in an effort to identify common traits. We use those traits to discover the patterns that can predict the future of modern-day technologies.
     
     Which text technologies are going to succeed and how can they best be developed? The answer lies in the patterns of the past."
