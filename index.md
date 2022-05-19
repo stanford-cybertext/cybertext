@@ -6,7 +6,7 @@ classes: wide
 feature_row:
   - title: "About"
     excerpt: "The CyberText Technologies Project catalogues the history of dominant text-based human communication devices in an effort to identify common traits. We use those traits to discover the patterns that can predict the future of modern-day technologies.
-    
+    <br>
     Which text technologies are going to succeed and how can they best be developed? The answer lies in the patterns of the past."
     url: "https://stanford-cybertext.github.io/about/"
     btn_label: "More about us"
