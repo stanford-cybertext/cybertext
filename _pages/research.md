@@ -1,6 +1,8 @@
 ---
 permalink: /research/
 title: "Predicting the Future of Text Technologies"
+layout: single
+classes: wide
 ---
 
 ![Research_1](/assets/images/research_1.png)
