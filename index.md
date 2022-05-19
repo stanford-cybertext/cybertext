@@ -11,16 +11,16 @@ feature_row:
     url: "https://stanford-cybertext.github.io/about/"
     btn_label: "More about us"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/In_The_Spotlight.jpeg
-    title: "In the Spotlight"
+  - title: "In the Spotlight"
+    image_path: /assets/images/In_The_Spotlight.jpeg
     alt: "In the Spotlight image"
     excerpt: "Having created a meticulous dataset of major text technologies through history, our project is now in its second phase. Learn more about how  we move from this dataset to employing big data in order to test and verify the patterns we have found."
     url: "https://stanford-cybertext.github.io/research/"
     btn_label: "More information"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/Our_Team.png
+  - title: "Our Team"
+    image_path: /assets/images/Our_Team.png
     alt: "Our Team image"
-    title: "Our Team"
     excerpt: "We are an interdisciplinary and multinational team, working together to understand the patterns behind the history of text technologies."
     url: "https://stanford-cybertext.github.io/team"
     btn_label: "Learn more about our team"
