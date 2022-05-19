@@ -16,7 +16,7 @@ The traditional narrative of book history paid little attention to non-European 
 
 ##### The patterns
 
-![Research_3](/assets/images/research_3.jpeg){: .align-right}
+![Research_3](/assets/images/research_3.jpg){: .align-right}
 
 The data gathered in our database allowed us to isolate basic patterns governing the evolution of text technologies throughout their life cycles. We have observed that text-based forms of communication often follow a linear pattern of evolution, from tokens through tablets and scrolls to codices.
 
