@@ -57,35 +57,15 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar           : assets/images/stanford_logo.png
   bio              : "Predicting the future of text technologies by analyzing their past."
-  email            :
+  email            : "texttechnologies@lists.stanford.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "texttechnologies@lists.stanford.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/etreharne"
+      # url: "https://twitter.com/etreharne"
 
 defaults:
   # _pages
