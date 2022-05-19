@@ -58,8 +58,7 @@ plugins:
 
 author:
   avatar           : assets/images/stanford_logo.png
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Predicting the future of text technologies by analyzing their past."
   email            :
   links:
     - label: "Email"
