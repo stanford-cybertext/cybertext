@@ -1,6 +1,8 @@
 ---
 permalink: /team/
 title: "The Team"
+layout: single
+classes: wide
 feature_row:
   - image_path: _pages/assets/images/Elaine_Treharne.jpeg
     alt: "Elaine Treharne"

@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
+classes: wide
 ---
 
 ![About image](/assets/images/About.jpeg){: .align-left}

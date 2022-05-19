@@ -1,6 +1,8 @@
 ---
 permalink: /contact/
 title: "Contact"
+layout: single
+classes: wide
 ---
 
 Professor Elaine Treharne
