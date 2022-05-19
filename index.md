@@ -1,7 +1,7 @@
 ---
 permalink: //
 title: "Stanford CyberText"
-layout: single
+layout: splash
 classes: wide
 feature_row:
   - image_path: /assets/images/Background.jpg
