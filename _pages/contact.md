@@ -23,4 +23,7 @@ Having trouble accessing any of this content due to a disability? [Learn more ab
 <br>
 
 ![CCCC](/assets/images/CCCC.png){: .align-left}
+<br>
+<br>
+<br>
 Cambridge, Corpus Christi College, MS 394: Apocalypse in Anglo-Norman f. 49v
