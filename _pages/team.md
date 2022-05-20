@@ -53,3 +53,12 @@ Celena Allen, with a background in Geography and Cultural Anthropology, initiall
 ![Liz Fischer](/assets/images/Liz_Fischer.jpeg){: .align-left}
 
 ##### Liz Fischer
+
+<br>
+<br>
+<br>
+<br>
+
+![HB Klein](/assets/images/HB_Klein.jpeg){: .align-left}
+
+##### HB Klein
