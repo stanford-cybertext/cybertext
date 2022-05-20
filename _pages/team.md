@@ -38,6 +38,7 @@ Celena Allen, with a background in Geography and Cultural Anthropology, initiall
 
 <br>
 
+
 ![Dylan Bedford](/assets/images/Dylan_Bedford.jpeg){: .align-left}
 
 ##### Dylan Bedford
