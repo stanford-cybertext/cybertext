@@ -71,3 +71,12 @@ Celena Allen, with a background in Geography and Cultural Anthropology, initiall
 ![Kim Ngo](/assets/images/Kim_Ngo.jpeg){: .align-left}
 
 ##### Kim Ngo
+
+<br>
+<br>
+<br>
+<br>
+
+![Clare Tandy](/assets/images/Clare_Tandy.jpeg){: .align-left}
+
+##### Clare Tandy
