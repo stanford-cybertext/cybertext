@@ -4,6 +4,8 @@ title: "The Team"
 layout: splash
 ---
 
+![CCCC](/assets/images/CCCC.png){: .align-right}
+
 ![Elaine Treharne, Principal Investigator](/assets/images/Elaine_Treharne.jpeg){: .align-left}
 
 ##### Elaine Treharne
