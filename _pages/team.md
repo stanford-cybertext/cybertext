@@ -39,7 +39,8 @@ Celena Allen, with a background in Geography and Cultural Anthropology, initiall
 <br>
 <br>
 <br>
+<br>
 
-![Jessica Beckman](/assets/images/Jessica_Beckman.jpeg){: .align-left}
+![Dylan Bedford](/assets/images/Dylan_Bedford.jpeg){: .align-left}
 
-##### Jessica Beckman
+##### Dylan Bedford
