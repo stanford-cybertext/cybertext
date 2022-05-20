@@ -30,6 +30,16 @@ Mateusz Fafinski is Stanford Text Technologies Fellow. He has studied History, C
 
 Celena Allen, with a background in Geography and Cultural Anthropology, initially came to CESTA as a GIS Specialist and Project Coordinator for the [Spatial History Project](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php). In that role she provided technical and project management support for various research projects within the Spatial History Lab.
 
+<br>
+
 ![Jessica Beckman](/assets/images/Jessica_Beckman.jpeg){: .align-left}
 
 ##### Jessica Beckman
+
+<br>
+
+![Dylan Bedford](/assets/images/Dylan_Bedford.jpeg){: .align-left}
+
+##### Dylan Bedford
+
+<br>
