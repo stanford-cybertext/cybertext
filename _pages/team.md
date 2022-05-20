@@ -62,3 +62,12 @@ Celena Allen, with a background in Geography and Cultural Anthropology, initiall
 ![HB Klein](/assets/images/HB_Klein.jpeg){: .align-left}
 
 ##### HB Klein
+
+<br>
+<br>
+<br>
+<br>
+
+![Kim Ngo](/assets/images/Kim_Ngo.jpeg){: .align-left}
+
+##### Kim Ngo
