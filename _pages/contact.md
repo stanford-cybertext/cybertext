@@ -19,3 +19,6 @@ texttechnologies@lists.stanford.edu
 Stanford University is committed to providing an online environment that is accessible to everyone, including individuals with disabilities. 
 
 Having trouble accessing any of this content due to a disability? [Learn more about accessibility at Stanford and report accessibility issues.](http://www.stanford.edu/site/accessibility)
+
+![CCCC](/assets/images/CCCC.png){: .align-right}
+Cambridge, Corpus Christi College, MS 394: Apocalypse in Anglo-Norman f. 49v
