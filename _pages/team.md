@@ -24,6 +24,8 @@ Mateusz Fafinski is Stanford Text Technologies Fellow. He has studied History, C
 
 <br>
 
+##### Former Researchers
+
 ![Celena Allen](/assets/images/Celena_Allen.jpeg){: .align-left}
 
 ##### Celena Allen
