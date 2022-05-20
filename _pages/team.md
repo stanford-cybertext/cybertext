@@ -12,6 +12,7 @@ Elaine Treharne is Roberta Bowman Denning Professor of Humanities at Stanford. I
 
 [Faculty Profile](https://english.stanford.edu/people/elaine-treharne)
 
+
 ![Mateusz Fafinski](/assets/images/Mateusz_Fafinski.jpeg){: .align-left}
 
 ##### Mateusz Fafinski
