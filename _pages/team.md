@@ -37,3 +37,7 @@ Celena Allen, with a background in Geography and Cultural Anthropology, initiall
 ##### Jessica Beckman
 
 <br>
+
+![Jessica Beckman](/assets/images/Jessica_Beckman.jpeg){: .align-left}
+
+##### Jessica Beckman
