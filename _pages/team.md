@@ -21,3 +21,11 @@ Elaine Treharne is Roberta Bowman Denning Professor of Humanities at Stanford. I
 Mateusz Fafinski is Stanford Text Technologies Fellow. He has studied History, Classics and British Literature and wrote his PhD at Freie Universität in Berlin. Apart from his work in CESTA he is especially interested in Early Medieval charters, history of the book and digital humanities and the role of translation in modern academia.
 
 [Personal website](https://mfafinski.github.io/)
+
+<br>
+
+![Celena Allen](/assets/images/Celena_Allen.jpeg){: .align-left}
+
+##### Celena Allen
+
+Celena Allen, with a background in Geography and Cultural Anthropology, initially came to CESTA as a GIS Specialist and Project Coordinator for the [Spatial History Project](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php). In that role she provided technical and project management support for various research projects within the Spatial History Lab.
