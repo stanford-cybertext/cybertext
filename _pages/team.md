@@ -44,3 +44,12 @@ Celena Allen, with a background in Geography and Cultural Anthropology, initiall
 ![Dylan Bedford](/assets/images/Dylan_Bedford.jpeg){: .align-left}
 
 ##### Dylan Bedford
+
+<br>
+<br>
+<br>
+<br>
+
+![Liz Fischer](/assets/images/Liz_Fischer.jpeg){: .align-left}
+
+##### Liz Fischer
