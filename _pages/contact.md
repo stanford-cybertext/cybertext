@@ -5,8 +5,11 @@ layout: splash
 ---
 
 Professor Elaine Treharne
+
 450 Serra Mall
+
 Bldg 460 Stanford
+
 CA 94305-2087
 
 texttechnologies@lists.stanford.edu
